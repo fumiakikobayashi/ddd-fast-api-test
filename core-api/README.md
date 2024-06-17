@@ -1,3 +1,3 @@
-# ddd-fast-api-test
+# core-api
 
 Describe your project here.
